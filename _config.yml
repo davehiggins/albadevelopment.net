@@ -1,3 +1,4 @@
+---
 title: Albadev.Com.Au
 timezone: UTC
 collections:
@@ -7,4 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-    
